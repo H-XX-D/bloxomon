@@ -1,6 +1,6 @@
 # Bloxomon — Prism Evolution
 
-Browser game imported from `Bloxomon-Prism-Roster-14.9.2.html` (version 14.9.2).
+Browser game imported from `Bloxomon-Prism-Roster-14.9.3.html` (version 14.9.3).
 
 ## Run locally
 
@@ -18,8 +18,8 @@ Then visit http://localhost:8000.
 
 ## Source snapshot
 
-Original filename: `Bloxomon-Prism-Roster-14.9.2.html`
+Original filename: `Bloxomon-Prism-Roster-14.9.3.html`
 
-SHA-256: `2bc43e1d95413c07881e8c433dbe1e0939bac045cda31ad454e603f98173ad73`
+SHA-256: `9d261e8a1765765fc2615ffd312bec6689e089fd49ed7f37f4878d2790bd0f33`
 
 This repository starts with the supplied release HTML. No gameplay changes were made during import.
